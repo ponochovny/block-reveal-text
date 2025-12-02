@@ -2,7 +2,8 @@ import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
 	output: 'export',
-	assetPrefix: 'https://ponochovny.github.io/block-reveal-text/',
+	basePath: '/block-reveal-text',
+	assetPrefix: '/block-reveal-text/',
 	images: {
 		unoptimized: true,
 	},

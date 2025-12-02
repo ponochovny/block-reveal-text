@@ -14,7 +14,7 @@ export default function Home() {
 
 			<section className='intro'>
 				<div className='section-bg'>
-					<Image src='/img_1.jpg' alt='' fill />
+					<Image src='./img_1.jpg' alt='' fill />
 				</div>
 
 				<Copy blockColor='#fe0100'>
@@ -40,7 +40,7 @@ export default function Home() {
 
 			<section className='banner-img'>
 				<div className='section-bg'>
-					<Image src='/img_2.jpg' alt='' fill />
+					<Image src='./img_2.jpg' alt='' fill />
 				</div>
 			</section>
 
@@ -57,7 +57,7 @@ export default function Home() {
 
 			<section className='outro'>
 				<div className='section-bg'>
-					<Image src='/img_4.jpg' alt='' fill />
+					<Image src='./img_4.jpg' alt='' fill />
 				</div>
 
 				<Copy blockColor='#fe0100'>
