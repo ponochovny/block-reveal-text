@@ -3,7 +3,7 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/block-reveal-text//_next/:path+",
+        "source": "/.//_next/:path+",
         "destination": "/_next/:path+"
       }
     ],
